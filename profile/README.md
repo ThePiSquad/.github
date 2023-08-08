@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-PiSquad is a high school club from China, where a group of people come together and creating amazing thigns.
+PiSquad is a high school club from China, where a group of people come together and creating amazing things.
 
 The name PiSquad is combination of Pi, which is abbreviation of Pink, correspond to chinese word "粉", and Squad for "战队".
 
