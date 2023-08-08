@@ -10,17 +10,5 @@ The name PiSquad is combination of Pi, which is abbreviation of Pink, correspond
 - Currently have 6 members
 
 ### Contact
-- [Official Website](https://pisquadclub)
-- [Bilibili](https://bilibili)
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Official Website](https://pisquad.club)
+- [Bilibili](https://bilibili.com/space/3461568968788625)
