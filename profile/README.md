@@ -11,4 +11,4 @@ The name PiSquad is combination of Pi, which is abbreviation of Pink, correspond
 
 ### Contact
 - [Official Website](https://pisquad.club)
-- [Bilibili](https://bilibili.com/space/3461568968788625)
+- [Bilibili](https://space.bilibili.com/3461568968788625)
