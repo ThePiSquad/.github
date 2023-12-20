@@ -1,14 +1,7 @@
-## Hi there 👋
+## 关于我们
+粉墨战队是由中学生组成的社团，成立于 2022年10月14日。
+粉磨战队的活动内容涉及编程、机械制造、人工智能等多方面内容，我们希望能够为社员创造丰富的实践经验以及组件充满激情的群体。
 
-PiSquad is a high school club from China, where a group of people come together and creating amazing things.
-
-The name PiSquad is combination of Pi, which is abbreviation of Pink, correspond to chinese word "粉", and Squad for "战队".
-
-### Facts of PiSquad
-- Founded Date: 2022-10-14 (The day we created our QQ group)
-- Founder: [@hukening](https://github.com/Tokyo469)
-- Currently have 17 members
-
-### Contact
-- [Official Website](https://pisquad.club)
-- [Bilibili](https://space.bilibili.com/3461568968788625)
+## 联系我们
+- [官网](https://pisquad.club)
+- [哔哩哔哩](https://space.bilibili.com/3461568968788625)
