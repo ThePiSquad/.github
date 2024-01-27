@@ -10,7 +10,7 @@
   
 ## 人员
 - 社长：[@CHENshifen](https://github.com/CHENshifen)
-- 活跃联系人：[@hukening](https://github.com/tokyo469) | [email](mailto:kening.hu@qq.com)
+- 活跃联系人：[@hukening](https://github.com/tokyo469) | [email](mailto:kening.hu@outlook.com)
 
 ## 其他链接
 - [查看其他通知](https://github.com/ThePiSquad/.github/discussions/categories/announcements)
