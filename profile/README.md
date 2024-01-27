@@ -1,7 +1,17 @@
 ## 关于我们
-粉墨战队是由中学生组成的社团，成立于 2022年10月14日。
-粉磨战队的活动内容涉及编程、机械制造、人工智能等多方面内容，我们希望能够为社员提供丰富的实践机会，以及传播工程师文化。
+粉墨战队是由中学生组成的社团，成立于2022年10月14日。
+粉墨战队致力于为**本校**学生提供实践&合作机会。
 
-## 联系我们
-- [官网](https://pisquad.club)
-- [哔哩哔哩](https://space.bilibili.com/3461568968788625)
+## 活动内容
+- 开源软件
+- 嵌入式硬件
+- 机械设计
+  
+## 人员
+- 社长：[@CHENshifen](https://github.com/CHENshifen)
+- 活跃联系人：[@hukening](https://github.com/tokyo469) | [email](mailto:kening.hu@qq.com)
+
+## 其他链接
+- [查看其他通知](https://github.com/ThePiSquad/.github/discussions/categories/announcements)
+- [哔哩哔哩账号](https://space.bilibili.com/3461568968788625)
+
