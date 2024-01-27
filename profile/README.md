@@ -1,5 +1,6 @@
 ## 关于我们
 粉墨战队是由中学生组成的社团，成立于2022年10月14日。
+
 粉墨战队致力于为**本校**学生提供实践&合作机会。
 
 ## 活动内容
@@ -14,4 +15,7 @@
 ## 其他链接
 - [查看其他通知](https://github.com/ThePiSquad/.github/discussions/categories/announcements)
 - [哔哩哔哩账号](https://space.bilibili.com/3461568968788625)
+- 其他 GitHub 账号
+  - [PiSquadArchive](https://github.com/PiSquadArchive): 项目合集
+  - [LilyKittyAI](https://github.com/LilyKittyAI)：LilyKitty 相关仓库
 
