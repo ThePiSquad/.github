@@ -6,7 +6,7 @@
 ## 活动内容
 - 开源软件
 - 嵌入式硬件
-- 机械设计
+- 机械设计，机器人
   
 ## 人员
 - 社长：[@CHENshifen](https://github.com/CHENshifen)
@@ -19,8 +19,8 @@
   - [PiSquadArchive](https://github.com/PiSquadArchive): 项目合集
   - [LilyKittyAI](https://github.com/LilyKittyAI)：LilyKitty 相关仓库
 
-## 其他链接
-- [粉墨战队贡献指南](https://github.com/orgs/ThePiSquad/discussions/1)
+## 继续阅读
+- 本校学生想要参与我们的活动？   [粉墨战队贡献指南](https://github.com/orgs/ThePiSquad/discussions/1)
 
 
 
