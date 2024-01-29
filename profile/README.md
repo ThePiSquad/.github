@@ -20,7 +20,7 @@
   - [LilyKittyAI](https://github.com/LilyKittyAI)：LilyKitty 相关仓库
 
 ## 继续阅读
-- 本校学生想要参与我们的活动？   [粉墨战队贡献指南](https://github.com/orgs/ThePiSquad/discussions/1)
+- 本校学生想要参与我们的活动？   [加入我们](https://github.com/orgs/ThePiSquad/discussions/1)
 
 
 
