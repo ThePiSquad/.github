@@ -13,7 +13,7 @@
 - 活跃联系人：[@hukening](https://github.com/tokyo469) | [email](mailto:kening.hu@outlook.com)
 
 ## 关注动态
-- [查看其他通知](https://github.com/ThePiSquad/.github/discussions/categories/announcements)
+- [查看其他通知](https://github.com/ThePiSquad/collections/discussions/categories/announcements)
 - [哔哩哔哩账号](https://space.bilibili.com/3461568968788625)
 - 其他 GitHub 账号
   - [PiSquadArchive](https://github.com/PiSquadArchive): 项目合集
