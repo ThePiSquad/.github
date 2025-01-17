@@ -1,1 +1,1 @@
-I release stuff under the name PiSquad.
+We release stuff under the name PiSquad.
